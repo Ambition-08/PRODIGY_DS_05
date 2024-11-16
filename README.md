@@ -1,8 +1,9 @@
 # US Accident Data Analysis
 ## Overview
 
-This repository contains the analysis and insights derived from the 2021 US Accident Dataset. The analysis focuses on identifying trends, high-severity hotspots, and factors influencing accidents, with the aim of proposing actionable solutions to enhance road safety.
-Repository Structure
+- This repository contains the analysis and insights derived from the 2021 US Accident Dataset. The analysis focuses on identifying trends, high-severity hotspots, and factors influencing accidents, with the aim of proposing actionable solutions to enhance road safety.
+
+**Repository Structure**
 File Name	Description
 Accident_analysis.ipynb	The Jupyter Notebook containing the complete analysis and visualizations.
 README.md	This README file explaining the project and repository contents.
